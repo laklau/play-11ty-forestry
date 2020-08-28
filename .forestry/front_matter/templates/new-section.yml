@@ -1,0 +1,34 @@
+---
+label: New section
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: pageHeading
+  label: pageHeading
+- type: text
+  name: metaDesc
+  label: metaDesc
+- type: text
+  name: socialImage
+  label: socialImage
+- type: text
+  name: introHeading
+  label: introHeading
+- type: textarea
+  name: introSummary
+  label: introSummary
+- type: text
+  name: sectionHeading
+  label: sectionHeading
+- type: textarea
+  name: newSection
+  label: newSection
