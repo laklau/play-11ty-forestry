@@ -1,6 +1,7 @@
 ---
 label: New page frontmatter template
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: layout
@@ -8,6 +9,7 @@ fields:
 - type: text
   name: title
   label: title
+  default: title goes here
 - type: text
   name: permalink
   label: permalink
