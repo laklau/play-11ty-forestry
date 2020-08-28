@@ -2,10 +2,10 @@
 title: title goes here
 permalink: layouts/newpage.njk
 layout: ''
-pageHeading: ''
+pageHeading: Page heading
 metaDesc: ''
-introHeading: ''
-introSummary: ''
+introHeading: Lorem ipsum
+introSummary: 'Lorem ipsum content: dolor sit amet consectetur adipisicing elit.'
 new_section_block:
 - template: new-section
   newSection: "Lorem ipsum content: dolor sit amet consectetur adipisicing elit. **Quia
