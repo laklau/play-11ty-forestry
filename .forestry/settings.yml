@@ -6,6 +6,13 @@ webhook_url:
 sections:
 - type: heading
   label: Content
+- type: directory
+  path: src/pages
+  label: Pages
+  create: all
+  match: "**/*.md"
+  templates:
+  - new-page-frontmatter-template
 - type: document
   path: src/pages/new-page.md
   label: New Page
