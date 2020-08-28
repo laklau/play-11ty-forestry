@@ -15,7 +15,7 @@ new_section_block:
     ipsum content: dolor sit amet consectetur adipisicing elit. \n\nQuia harum aut
     possimus consequatur numquam, quaerat ab perspiciatis quae corporis recusandae
     accusantium cumque maiores incidunt sequi ducimus aliquid!"
-  sectionHeading: Rich format text section in a block
+  sectionHeading: Text section in a block
 
 ---
 Markdown text area.
