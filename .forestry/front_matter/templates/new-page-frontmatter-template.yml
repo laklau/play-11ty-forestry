@@ -33,11 +33,16 @@ fields:
 - type: textarea
   name: introSummary
   label: introSummary
-- name: new_section_template
-  type: include
+- name: new_section_field_group
+  type: field_group
   config: {}
-  template: new-section
-  label: New section template
+  fields:
+  - name: new_section_template
+    type: include
+    config: {}
+    template: new-section
+    label: new section template
+  label: New section field group
 - name: new_section_block
   type: blocks
   label: New section block
