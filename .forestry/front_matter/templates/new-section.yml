@@ -10,6 +10,6 @@ fields:
   name: newSection
   label: newSection
   config:
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: markdown
