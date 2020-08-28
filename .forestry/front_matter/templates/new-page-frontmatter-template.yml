@@ -7,7 +7,9 @@ fields:
   name: layout
   label: layout
   default: layouts/newpage.njk
-  hidden: true
+  hidden: false
+  config:
+    required: true
 - type: text
   name: title
   label: title
