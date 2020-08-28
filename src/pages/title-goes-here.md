@@ -18,3 +18,4 @@ new_section_block:
   sectionHeading: Rich format section in a block
 
 ---
+markdown text
