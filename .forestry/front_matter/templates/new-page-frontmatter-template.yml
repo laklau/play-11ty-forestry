@@ -17,8 +17,10 @@ fields:
 - type: text
   name: permalink
   label: permalink
-  default: layouts/newpage.njk
-  hidden: true
+  default: "/new-page/index.html"
+  hidden: false
+  config:
+    required: true
 - type: text
   name: pageHeading
   label: pageHeading
