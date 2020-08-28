@@ -23,3 +23,21 @@
     }
   }
 }
+
+.newsection {
+  background: lightblue;
+
+  &__summary {
+    --flow-space: #{get-size(500)};
+    font-size: get-size(500);
+  }
+
+  &__heading {
+    max-width: 40ex;
+    color: darkslategray;
+  }
+
+  &__hr {
+    background: orangered;
+  }
+}

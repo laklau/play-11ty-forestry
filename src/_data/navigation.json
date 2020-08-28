@@ -6,6 +6,11 @@
       "external": false
     },
     {
+      "text": "New Page",
+      "url": "/new-page",
+      "external": false
+    },
+    {
       "text": "GitHub",
       "url": "https://github.com/hankchizljaw/hylia",
       "external": true
