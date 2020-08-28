@@ -8,3 +8,7 @@ fields:
 - type: textarea
   name: newSection
   label: newSection
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
