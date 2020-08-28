@@ -6,6 +6,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: layouts/newpage.njk
 - type: text
   name: title
   label: title
