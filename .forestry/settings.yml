@@ -9,7 +9,6 @@ sections:
 - type: document
   path: src/pages/new-page.md
   label: New Page
-  match: "**/*"
 - type: directory
   path: src/posts
   label: Posts
