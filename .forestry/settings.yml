@@ -24,6 +24,12 @@ sections:
   templates:
   - post
 - type: heading
+  label: Menu
+- type: document
+  path: src/_data/navigation.json
+  label: Main nav
+  match: "**/*"
+- type: heading
   label: Globals
 - type: document
   path: src/_data/tokens.json
