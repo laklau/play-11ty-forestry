@@ -16,6 +16,10 @@ new_section_block:
     possimus consequatur numquam, quaerat ab perspiciatis quae corporis recusandae
     accusantium cumque maiores incidunt sequi ducimus aliquid!"
   sectionHeading: Text section in a block
+- template: new-section
+  sectionHeading: Another new section is here!
+  newSection: Quia harum aut possimus consequatur numquam, quaerat ab perspiciatis
+    quae corporis recusandae accusantium cumque maiores incidunt sequi ducimus aliquid!
 
 ---
 Markdown text area.
