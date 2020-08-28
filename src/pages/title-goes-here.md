@@ -22,6 +22,12 @@ new_section_block:
     quae corporis recusandae accusantium cumque maiores incidunt sequi ducimus aliquid!
 sectionHeading: ''
 newSection: ''
+new_section_field_group:
+  sectionHeading: Heading of a field group section
+  newSection: |-
+    ## Vberbrgfr
+
+    Quia harum aut possimus consequatur numquam, quaerat ab perspiciatis quae corporis recusandae accusantium cumque **maiores incidunt** sequi ducimus aliquid!
 
 ---
 Markdown text area.
