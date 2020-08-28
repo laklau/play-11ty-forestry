@@ -35,3 +35,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- src/pages/title-goes-here.md
