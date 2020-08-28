@@ -1,5 +1,5 @@
 ---
-title: title goes here
+title: page 2 test
 permalink: layouts/newpage.njk
 layout: ''
 pageHeading: Page heading
