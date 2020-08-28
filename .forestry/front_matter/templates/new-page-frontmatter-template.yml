@@ -18,9 +18,6 @@ fields:
   name: metaDesc
   label: metaDesc
 - type: text
-  name: socialImage
-  label: socialImage
-- type: text
   name: introHeading
   label: introHeading
 - type: textarea
