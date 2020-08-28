@@ -1,7 +1,7 @@
 ---
 title: page 2 test
 permalink: layouts/newpage.njk
-layout: ''
+layout: layouts/newpage.njk
 pageHeading: Page heading
 metaDesc: ''
 introHeading: Lorem ipsum
