@@ -20,6 +20,8 @@ new_section_block:
   sectionHeading: Another new section is here!
   newSection: Quia harum aut possimus consequatur numquam, quaerat ab perspiciatis
     quae corporis recusandae accusantium cumque maiores incidunt sequi ducimus aliquid!
+sectionHeading: ''
+newSection: ''
 
 ---
 Markdown text area.
