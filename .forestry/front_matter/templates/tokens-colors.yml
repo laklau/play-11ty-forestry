@@ -6,6 +6,11 @@ fields:
   name: size-scale
   label: size-scale
   fields:
+  - name: name
+    type: tag_list
+    default: []
+    label: label
+    description: description
   - type: text
     name: base
     label: base
