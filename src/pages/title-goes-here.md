@@ -1,6 +1,6 @@
 ---
 title: page 2 test
-permalink: layouts/newpage.njk
+permalink: "/page-2-test/index.html"
 layout: layouts/newpage.njk
 pageHeading: Page heading
 metaDesc: ''
