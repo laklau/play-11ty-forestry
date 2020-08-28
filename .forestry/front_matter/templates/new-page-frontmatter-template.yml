@@ -13,6 +13,8 @@ fields:
 - type: text
   name: permalink
   label: permalink
+  default: layouts/newpage.njk
+  hidden: true
 - type: text
   name: pageHeading
   label: pageHeading
@@ -25,13 +27,3 @@ fields:
 - type: textarea
   name: introSummary
   label: introSummary
-- type: text
-  name: sectionHeading
-  label: sectionHeading
-- type: textarea
-  name: newSection
-  label: newSection
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
