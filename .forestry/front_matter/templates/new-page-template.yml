@@ -43,3 +43,7 @@ fields:
 - type: textarea
   name: mainContent
   label: mainContent
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
