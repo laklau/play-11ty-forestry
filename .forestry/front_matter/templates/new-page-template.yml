@@ -5,6 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: layouts/newpage.njk
 - type: text
   name: title
   label: title
@@ -30,6 +31,10 @@ fields:
   - type: textarea
     name: introSummary
     label: introSummary
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 - type: field_group
   name: sectionA
   label: sectionA
@@ -40,6 +45,10 @@ fields:
   - type: textarea
     name: sectionText
     label: sectionText
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 - type: textarea
   name: mainContent
   label: mainContent
