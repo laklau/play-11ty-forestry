@@ -1,13 +1,16 @@
 {% extends 'layouts/base.njk' %}
 
-{# Intro content #}
-{% set heading = title %}
-
 {% block content %}
   <main id="main-content" tabindex="-1">
     <article class="[ post ] [ h-entry ]">
+      <h1>{{ pageHeading }}</h1>
+      {% set heading = intro.introHeading %}
+      {% set summary = intro.introSummary %}
       {% include "partials/components/intro.njk" %}
+      {% set heading = sectionA.sectionHeading %}
+      {% set text = sectionA.sectionText %}
       {% include "partials/components/new-section.njk" %}
+      <div>{{ mainContent }}</div>
     </article>
   </main>
 {% endblock %}
