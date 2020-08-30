@@ -33,7 +33,7 @@ fields:
 - type: textarea
   name: introSummary
   label: introSummary
-- name: new_section_field_group
+- name: sectionA
   type: field_group
   config: {}
   fields:
@@ -42,7 +42,7 @@ fields:
     config: {}
     template: new-section
     label: new section template
-  label: New section field group
+  label: The A new section
 - name: new_section_block
   type: blocks
   label: New section block
@@ -51,5 +51,3 @@ fields:
   config:
     min: 
     max: 
-pages:
-- src/pages/title-goes-here.md
