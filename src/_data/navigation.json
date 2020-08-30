@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "text": "new-page-from-forestry",
-      "url": "/new-page-from-forestry/index.html",
+      "text": "New page from forestry",
+      "url": "/new-page-from-forestry/",
       "external": ""
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "text": "New Page",
-      "url": "/new-page",
+      "url": "/new-page/",
       "external": false
     },
     {
