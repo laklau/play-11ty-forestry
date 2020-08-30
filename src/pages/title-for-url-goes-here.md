@@ -32,5 +32,8 @@ sectionA:
 intro:
   introHeading: Intro here!
   introSummary: Bli bli bli
+mainContent: Lifecycle The node binary used for scripts is node but npm is using node
+  itself. Use the \`--scripts-prepend-node-path\` option to include the path for the
+  node binary npm was executed with.
 
 ---
