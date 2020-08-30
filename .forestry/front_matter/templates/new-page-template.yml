@@ -1,0 +1,45 @@
+---
+label: New page template
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: pageHeading
+  label: pageHeading
+- type: text
+  name: metaDesc
+  label: metaDesc
+- type: text
+  name: socialImage
+  label: socialImage
+- type: field_group
+  name: intro
+  label: intro
+  fields:
+  - type: text
+    name: introHeading
+    label: introHeading
+  - type: textarea
+    name: introSummary
+    label: introSummary
+- type: field_group
+  name: sectionA
+  label: sectionA
+  fields:
+  - type: text
+    name: sectionHeading
+    label: sectionHeading
+  - type: textarea
+    name: sectionText
+    label: sectionText
+- type: textarea
+  name: mainContent
+  label: mainContent
