@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "new-page-from-forestry",
+      "url": "/new-page-from-forestry",
+      "external": ""
+    },
+    {
       "text": "Home",
       "url": "/",
       "external": false
