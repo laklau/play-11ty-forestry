@@ -13,9 +13,6 @@ sections:
   match: "**/*.md"
   templates:
   - new-page-template
-- type: document
-  path: src/pages/new-page.md
-  label: New Page
 - type: directory
   path: src/posts
   label: Posts
