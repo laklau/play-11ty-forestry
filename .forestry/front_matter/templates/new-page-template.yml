@@ -56,3 +56,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- src/pages/new-page-from-forestry.md
