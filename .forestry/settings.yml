@@ -12,7 +12,7 @@ sections:
   create: documents
   match: "**/*.md"
   templates:
-  - new-page-frontmatter-template
+  - new-page-template
 - type: document
   path: src/pages/new-page.md
   label: New Page
