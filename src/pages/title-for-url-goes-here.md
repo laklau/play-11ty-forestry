@@ -26,5 +26,8 @@ new_section_field_group:
     ## Vberbrgfr
 
     Quia harum aut possimus consequatur numquam, quaerat ab perspiciatis quae corporis recusandae accusantium cumque **maiores incidunt** sequi ducimus aliquid!
+sectionA:
+  sectionHeading: Page 2 section heading
+  sectionText: Bla bla bla
 
 ---
