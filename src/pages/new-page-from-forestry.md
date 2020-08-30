@@ -1,7 +1,7 @@
 ---
 layout: layouts/newpage.njk
 title: New Page from Forestry
-permalink: new-page-from-forestry
+permalink: "/new-page-from-forestry/index.html"
 pageHeading: This is a page created in forestry
 metaDesc: ''
 socialImage: ''
