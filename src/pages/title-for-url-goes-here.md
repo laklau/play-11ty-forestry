@@ -29,5 +29,8 @@ new_section_field_group:
 sectionA:
   sectionHeading: Page 2 section heading
   sectionText: Bla bla bla
+intro:
+  introHeading: Intro here!
+  introSummary: Bli bli bli
 
 ---
